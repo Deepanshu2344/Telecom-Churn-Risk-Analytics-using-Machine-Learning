@@ -1,5 +1,4 @@
 # **Telecom-Churn-Risk-Analytics-using-Machine-Learning**
-# **Team D | Evoastra Internship Project**
 
 ### 🧩 **Project Overview**
 
